@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+emotioncheck.egg-info/PKG-INFO
+emotioncheck.egg-info/SOURCES.txt
+emotioncheck.egg-info/dependency_links.txt
+emotioncheck.egg-info/requires.txt
+emotioncheck.egg-info/top_level.txt

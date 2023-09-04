@@ -1,0 +1,6 @@
+dlib
+imutils
+opencv-python
+scipy
+tensorflow
+keras
